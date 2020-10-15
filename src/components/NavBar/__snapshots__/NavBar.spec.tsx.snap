@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar Component should render layout correctly 1`] = `
+<div>
+  <div
+    class="sc-bdnylx kzFGVQ"
+  >
+    <div
+      class="sc-gtssRu gwgwje"
+    >
+      <div
+        class="sc-dlnjPT"
+      >
+        Logo
+      </div>
+      <ul
+        class="sc-hKFyIo ljvqsi"
+      >
+        <li
+          class="sc-eCApGN heleiC"
+        >
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+        <li
+          class="sc-eCApGN heleiC"
+        >
+          <a
+            href="/about"
+          >
+            About
+          </a>
+        </li>
+        <li
+          class="sc-eCApGN heleiC"
+        >
+          <a
+            href="/contact"
+          >
+            Contact
+          </a>
+        </li>
+        <li
+          class="sc-eCApGN heleiC"
+        >
+          <a
+            href="/story"
+          >
+            Story
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;
